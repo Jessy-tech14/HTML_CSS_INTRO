@@ -1,1 +1,30 @@
 <strong>raining</strong>
+<!DOCTYPE html>
+<html lang="en">
+    <h1></h1>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widith=device widith, initial scale=1.0">
+    <title>document</title>
+<head><strong>raining</strong></head>
+<body>
+   <p><strong>raining</strong>
+    <p>this is a paragraph</p>
+    <p>this is a paragraph</p>
+
+    <h1>this is a heading</h1>
+    <h2>hello heading</h2>
+    <h3>hi heading</h3>
+
+    <ul>
+        <li>posho</li>
+        <li>rice</li> 
+        <li>greens</li>
+
+    </ul>
+    <ol>
+        <li>kilo</li>
+        <li>beans</li>
+    </ol>
+
+
+</body>
